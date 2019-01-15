@@ -2,3 +2,7 @@
 
 	In this 100 days, my goal is to improve my programming skills, 
 	I will learn more about Algorithms, Data Structures, and Competitive Programming.
+	
+## [Progress](progress.md)
+
+
