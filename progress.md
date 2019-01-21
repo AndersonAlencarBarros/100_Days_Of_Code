@@ -7,3 +7,4 @@
 | 003 | Jan 17, 2019 | Basic CSS details, like color of the text, CSS class, font size, and set the font family |
 | 004 | Jan 18, 2019 | Basic CSS details, like Padding, Margins and etc. |
 | 005 | Jan 19, 2019 | Union-find applications, for example, percolation and dynamic connectivity |
+| 006 | Jan 21, 2019 | Tried to answer a question [2298](https://www.urionlinejudge.com.br/judge/pt/problems/view/2298) on URI, but I am almost there, and I learned more about C++ |
