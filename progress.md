@@ -11,3 +11,4 @@
 | 007 | Jan 22, 2019 | Answered a question [2298](https://www.urionlinejudge.com.br/judge/pt/problems/view/2298) on URI |
 | 008 | Jan 24, 2019 | Answered a question [1238](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) on URI |
 | 009 | Jan 25, 2019 | Answered two problems on URI |
+| 010 | Jan 26, 2019 | Tried to answer a problem [2154](https://www.urionlinejudge.com.br/judge/pt/problems/view/2154) on URI, but no successfully, because It was hard to convert the data types, and I'm reading the [Top Coder Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials) |
