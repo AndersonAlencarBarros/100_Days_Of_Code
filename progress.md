@@ -21,3 +21,4 @@
 | 017 | Feb 04, 2019 | Tried the question [1211](https://www.urionlinejudge.com.br/judge/pt/problems/view/1211), but I am almost there! |
 | 018 | Feb 06, 2019 | Finished the question [1211](https://www.urionlinejudge.com.br/judge/pt/problems/view/1211) |
 | 019 | Feb 07, 2019 | Answering the question [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) |
+| 020 | Feb 08, 2019 | Finished the question [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) |
