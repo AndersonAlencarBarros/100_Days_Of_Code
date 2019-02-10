@@ -22,3 +22,4 @@
 | 018 | Feb 06, 2019 | Finished the question [1211](https://www.urionlinejudge.com.br/judge/pt/problems/view/1211) |
 | 019 | Feb 07, 2019 | Answering the question [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) |
 | 020 | Feb 08, 2019 | Finished the question [1212](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212) |
+| 021 | Feb 10, 2019 | Answered the question [1025](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025) |
