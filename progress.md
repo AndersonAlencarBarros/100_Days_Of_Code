@@ -26,3 +26,4 @@
 | 022 | Feb 11, 2019 | Tried the question [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) |
 | 023 | Feb 12, 2019 | Finished the question [1221](https://www.urionlinejudge.com.br/judge/pt/problems/view/1221) |
 | 024 | Feb 13, 2019 | Tried the question [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) | 
+| 025 | Feb 14, 2019 | Finished the question [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) | 
