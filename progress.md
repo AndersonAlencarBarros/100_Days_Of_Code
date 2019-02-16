@@ -28,3 +28,4 @@
 | 024 | Feb 13, 2019 | Tried the question [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) | 
 | 025 | Feb 14, 2019 | Finished the question [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) | 
 | 026 | Feb 15, 2019 | Answered the question [1124](https://www.urionlinejudge.com.br/judge/pt/problems/view/1124) |
+| 027 | Feb 16, 2019 | Tried the question [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295), a Brute Force problem, that I didn't solve because my code exceeded the time, I will continue to trying tomorrow
