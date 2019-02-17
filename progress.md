@@ -29,4 +29,4 @@
 | 025 | Feb 14, 2019 | Finished the question [1068](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068) | 
 | 026 | Feb 15, 2019 | Answered the question [1124](https://www.urionlinejudge.com.br/judge/pt/problems/view/1124) |
 | 027 | Feb 16, 2019 | Tried the question [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295), a Brute Force problem, that I didn't solve because my code exceeded the time, I will continue to trying tomorrow. |
-| 028 | Feb 17, 2019 | Studied about the [Closest pair of points problem](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem#Planar_case) to solve the problem [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295) |
+| 028 | Feb 17, 2019 | Studied about the [Closest pair of points problem](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem#Planar_case) to solve the problem [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295) and answered the questions [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) and the [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) |
