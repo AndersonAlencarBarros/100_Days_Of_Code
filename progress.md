@@ -32,3 +32,4 @@
 | 028 | Feb 17, 2019 | Studied about the [Closest pair of points problem](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem#Planar_case) to solve the problem [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295) and answered the questions [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) and the [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879). |
 | 029 | Feb 19, 2019 | Answered the question [1028](https://www.urionlinejudge.com.br/judge/pt/problems/view/1028), basic question, only using the GCD algorithm for two numbers. |
 | 030 | Feb 20, 2019 | Tried to solve the problem [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260), I only had a problem to detect the blank line in the input in C++. |
+| 031 | Feb 21, 2019 | Solved the problem [1260](https://www.urionlinejudge.com.br/judge/pt/problems/view/1260). |
