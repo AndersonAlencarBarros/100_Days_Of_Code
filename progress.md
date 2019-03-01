@@ -36,3 +36,4 @@
 | 032 | Feb 22, 2019 | Tried to solve the problem [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222). |
 | 033 | Feb 23, 2019 | Solved the problem [2222](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222). |
 | 034 | Feb 28, 2019 | Solved the problem [1198](https://www.urionlinejudge.com.br/judge/pt/problems/view/1198) and tried to solve the problem [2884](https://www.urionlinejudge.com.br/judge/pt/problems/view/2884). |  
+| 035 | Mar 01, 2019 | Tried to solve the question [2884](https://www.urionlinejudge.com.br/judge/pt/problems/view/2884), I'm with problem only to solve the last part of the question. |  
