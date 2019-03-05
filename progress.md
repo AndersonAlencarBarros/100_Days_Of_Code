@@ -39,3 +39,4 @@
 | 035 | Mar 01, 2019 | Tried to solve the question [2884](https://www.urionlinejudge.com.br/judge/pt/problems/view/2884), I'm with problem only to solve the last part of the question. |
 | 036 | Mar 02, 2019 | Finished the question [2884](https://www.urionlinejudge.com.br/judge/pt/problems/view/2884) and I answered the [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039). |
 | 037 | Mar 04, 2019 | Tried to solve the problem [2494](https://www.urionlinejudge.com.br/judge/pt/problems/view/2494). |
+| 038 | Mar 05, 2019 | Solved the Closest pair of points problem [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295). |
