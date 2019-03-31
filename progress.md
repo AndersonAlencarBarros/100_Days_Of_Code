@@ -41,3 +41,4 @@
 | 037 | Mar 04, 2019 | Tried to solve the problem [2494](https://www.urionlinejudge.com.br/judge/pt/problems/view/2494). |
 | 038 | Mar 05, 2019 | Solved the Closest pair of points problem [1295](https://www.urionlinejudge.com.br/judge/pt/problems/view/1295). |
 | 039 | Mar 06, 2019 | Solved the questions [1161](https://www.urionlinejudge.com.br/judge/pt/problems/view/1161) and [2802](https://www.urionlinejudge.com.br/judge/pt/problems/view/2802)
+| 040 | Mar 31, 2019 | After some days without code nothing, I solved the problems [Relational Operator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2113) and the [The Snail](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=514) on UVA |
