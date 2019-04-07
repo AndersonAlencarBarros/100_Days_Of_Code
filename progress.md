@@ -47,3 +47,4 @@
 | 043 | Apr 03, 2019 | Solved the problem [2674](https://www.urionlinejudge.com.br/judge/pt/problems/view/2674) and tried to solve the [1213](https://www.urionlinejudge.com.br/judge/pt/problems/view/1213). |
 | 044 | Apr 04, 2019 | Solved the problems [2484](https://www.urionlinejudge.com.br/judge/pt/problems/view/2484) on URI and the [Newspaper](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2315) on UVA. | 
 | 045 | Apr 06, 2019 | Solved [Wrong Subtraction](https://codeforces.com/contest/977/problem/A), [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) and [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A). on Codeforces |
+| 046 | Apr 07, 2019 | Solved the problem [Nirvana](https://codeforces.com/contest/1143/problem/B). |
