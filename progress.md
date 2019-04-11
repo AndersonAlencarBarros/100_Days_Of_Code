@@ -51,3 +51,4 @@
 | 047 | Apr 08, 2019 | Solved the problem [Way Too Long Words](https://codeforces.com/contest/71/problem/A) and tried to solve the problems [Watchmen](https://codeforces.com/contest/650/problem/A) and [Rotated squares](https://uva.onlinejudge.org/external/108/10855.pdf). |
 | 048 | Apr 09, 2019 | Solved the problem [Watchmen](https://codeforces.com/contest/650/problem/A). |
 | 049 | Apr 10, 2019 | Solved the problem [New Year and Hurry](https://codeforces.com/contest/750/problem/A). |
+| 050 | Apr 11, 2019 | Tried to Solve the problem [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2949). | 
