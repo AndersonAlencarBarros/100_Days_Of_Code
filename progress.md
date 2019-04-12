@@ -52,3 +52,4 @@
 | 048 | Apr 09, 2019 | Solved the problem [Watchmen](https://codeforces.com/contest/650/problem/A). |
 | 049 | Apr 10, 2019 | Solved the problem [New Year and Hurry](https://codeforces.com/contest/750/problem/A). |
 | 050 | Apr 11, 2019 | Tried to Solve the problem [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2949). | 
+| 051 | Apr 12, 2019 | Solved the problem [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2949). |
