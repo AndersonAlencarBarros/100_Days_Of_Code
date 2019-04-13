@@ -53,3 +53,4 @@
 | 049 | Apr 10, 2019 | Solved the problem [New Year and Hurry](https://codeforces.com/contest/750/problem/A). |
 | 050 | Apr 11, 2019 | Tried to Solve the problem [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2949). | 
 | 051 | Apr 12, 2019 | Solved the problem [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2949). |
+| 052 | Apr 13, 2019 | Tried to solve the problem [Serval and Bus](https://codeforces.com/contest/1153/problem/A). |
