@@ -55,3 +55,4 @@
 | 051 | Apr 12, 2019 | Solved the problem [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2949). |
 | 052 | Apr 13, 2019 | Tried to solve the problem [Serval and Bus](https://codeforces.com/contest/1153/problem/A). |
 | 053 | Apr 14, 2019 | Solved the problem [Serval and Bus](https://codeforces.com/contest/1153/problem/A). |
+| 054 | Apr 15, 2019 | Tried to answer the problem [Sort! Sort!! e Sort!!!](https://www.urionlinejudge.com.br/judge/pt/problems/view/1252). |
