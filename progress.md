@@ -59,3 +59,4 @@
 | 055 | Apr 16, 2019 | Answered the problem [Broken Keyboard](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3139). |
 | 056 | Apr 17, 2019 | Tried to answer the problem [The 3n + 1 problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=36&mosmsg=Submission+received+with+ID+23187334). |
 | 057 | Apr 18, 2019 | Answered the problem [The 3n + 1 problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=36&mosmsg=Submission+received+with+ID+23187334). |
+| 058 | Apr 20, 2019 | Tried to solve the problem [What is the Median?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1048&mosmsg=Submission+received+with+ID+23203212). |
