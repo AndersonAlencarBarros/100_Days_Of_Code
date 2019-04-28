@@ -63,3 +63,4 @@
 | 059 | Apr 23, 2019 | Solved the problem [What is the Median?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1048&mosmsg=Submission+received+with+ID+23203212). |
 | 060 | Apr 24, 2019 | Solved the problem [Game 23](https://codeforces.com/contest/1141/problem/A). |
 | 061 | Apr 26, 2019 | Solved the problem [Reachable Numbers](https://codeforces.com/contest/1157/problem/A). |
+| 062 | Apr 28, 2019 | Tried to solve [Long Number](https://codeforces.com/contest/1157/problem/B). |
