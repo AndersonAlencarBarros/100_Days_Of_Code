@@ -64,3 +64,4 @@
 | 060 | Apr 24, 2019 | Solved the problem [Game 23](https://codeforces.com/contest/1141/problem/A). |
 | 061 | Apr 26, 2019 | Solved the problem [Reachable Numbers](https://codeforces.com/contest/1157/problem/A). |
 | 062 | Apr 28, 2019 | Tried to solve [Long Number](https://codeforces.com/contest/1157/problem/B). |
+| 063 | Apr 29, 2019 | Solved [Long Number](https://codeforces.com/contest/1157/problem/B). |
