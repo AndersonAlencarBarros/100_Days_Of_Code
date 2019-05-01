@@ -66,3 +66,4 @@
 | 062 | Apr 28, 2019 | Tried to solve [Long Number](https://codeforces.com/contest/1157/problem/B). |
 | 063 | Apr 29, 2019 | Solved the question [Long Number](https://codeforces.com/contest/1157/problem/B). |
 | 064 | Apr 30, 2019 | Solved the question [Add All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1895&mosmsg=Submission+received+with+ID+23259662). |
+| 065 | May 01, 2019 | Solved the question [Justificador](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273). |
