@@ -68,4 +68,5 @@
 | 064 | Apr 30, 2019 | Solved the question [Add All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1895&mosmsg=Submission+received+with+ID+23259662). |
 | 065 | May 01, 2019 | Solved the question [Justificador](https://www.urionlinejudge.com.br/judge/pt/problems/view/1273). |
 | 066 | May 02, 2019 | Solved the question [Spurs Rocks](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303). |
-| 067 | May 04, 2019 | Solved the question [Love "A"](https://codeforces.com/problemset/problem/1146/A). |
+| 067 | May 04, 2019 | Solved the question [Love "A"](https://codeforces.com/problemset/problem/1146/A) on Codeforces. |
+| 068 | May 05, 2019 | Solved the problems [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) and [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) on URI. | 
