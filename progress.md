@@ -70,3 +70,4 @@
 | 066 | May 02, 2019 | Solved the question [Spurs Rocks](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303). |
 | 067 | May 04, 2019 | Solved the question [Love "A"](https://codeforces.com/problemset/problem/1146/A) on Codeforces. |
 | 068 | May 05, 2019 | Solved the problems [1029](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029) and [1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244) on URI. | 
+| 069 | May 06, 2019 | Solved the problem [2033](https://www.urionlinejudge.com.br/judge/pt/problems/view/2033). |
