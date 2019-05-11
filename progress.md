@@ -74,3 +74,4 @@
 | 070 | May 07, 2019 | Solved the problem [1805](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) on URI. |
 | 071 | May 08, 2019 | Solved the problem [1234](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) on URI. |
 | 072 | May 09, 2019 | Tried to solve the question [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) on URI. |
+| 073 | May 11, 2019 | Solved the question [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) on URI. |
