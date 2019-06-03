@@ -77,3 +77,4 @@
 | 073 | May 11, 2019 | Solved the question [1219](https://www.urionlinejudge.com.br/judge/pt/problems/view/1219) on URI. |
 | 074 | May 30, 2019 | Solved the question [1110](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110) on URI. |
 | 075 | May 31, 2019 | Solved the problem [Polycarp Training](https://codeforces.com/contest/1165/problem/B) on Codeforces. |
+| 076 | Jun 03, 2019 | I tried to solved the problem [2560](https://www.urionlinejudge.com.br/judge/pt/problems/view/2560), but I can't solve a "Time Limit Exceeded". |
